@@ -26,7 +26,7 @@ Follow these steps to set up HARINOVA AI on your local machine.
 Make sure you have [Node.js](https://nodejs.org/) and [MongoDB](https://www.mongodb.com/) installed on your machine.
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/harinova-ai.git
+git clone https://github.com/HarinathSasikumar/harinova-ai.git
 cd harinova-ai
 ```
 ### 2. Install Dependencies
